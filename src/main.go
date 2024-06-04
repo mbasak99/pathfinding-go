@@ -1,5 +1,0 @@
-package pathfind
-
-func main() {
-
-}

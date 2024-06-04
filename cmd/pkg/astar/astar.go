@@ -1,3 +1,5 @@
 package astar
 
-func AStar() {}
+func AStar() {
+
+}
