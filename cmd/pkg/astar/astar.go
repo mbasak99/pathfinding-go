@@ -1,0 +1,3 @@
+package astar
+
+func AStar() {}
